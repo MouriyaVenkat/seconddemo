@@ -1,0 +1,4 @@
+In a bid to protect waterbodies from encroachments and monitor water quality in Chennai and its periphery, the Water Resources Department will launch Tamil Nadu Land Use Intelligence System (TNLUIS), a mobile app. The application will detect changes in land use and unauthorised construction.
+
+Water Resources Minister Duraimurugan made this announcement during the demand for grants for his department for 2022-23 in the State Assembly on Wednesday. The application, which would be developed at a cost of ₹5.50 crore, would use GIS approach, artificial intelligence and satellite imaging to spot changes in land use. Geotagging of land and revenue maps would be done for the system.
+
